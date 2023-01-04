@@ -8,4 +8,4 @@ In .\ui\embed_modify\embed_modify_view.py replace all "# TODO:" Comments with yo
 run .\main.py have fun
 
 
-If you want to credit, use my Discord HonigBrot#1010
+If you want to credit, use my Discord HonigBrot#1000
